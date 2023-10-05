@@ -1,0 +1,2 @@
+# Bayesian_statistic_for_Poisson_distribution
+Estimating parameters for Poisson distribution by Bayesian statistics

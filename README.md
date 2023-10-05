@@ -8,3 +8,4 @@ Estimating parameters for Poisson distribution by Bayesian statistics
 4) Ước lượng tỷ lệ sinh của 02 nhóm phụ nữ 
 5) So sánh tỷ lệ sinh của 2 nhóm và đánh giá sự khác biệt (nếu có)
 
+Tập dữ liệu ta quan tâm để phân tích không lớn nên phù hợp sử dụng thống kê Bayes.
